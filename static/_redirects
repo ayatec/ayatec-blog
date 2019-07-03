@@ -1,0 +1,5 @@
+http://ayatec-blog-dev.netlify.com/*  https://dev.blog.ayatec.jp/:splat  301!
+https://ayatec-blog-dev.netlify.com/*  https://dev.blog.ayatec.jp/:splat  301!
+http://www.dev.blog.ayatec.jp/*  https://dev.blog.ayatec.jp/:splat  301!
+https://www.dev.blog.ayatec.jp/*  https://dev.blog.ayatec.jp/:splat  301!
+http://dev.blog.ayatec.jp/*  https://dev.blog.ayatec.jp/:splat  301!
