@@ -6,7 +6,9 @@ module.exports = {
     "extends": "eslint:recommended",
     "globals": {
         "Atomics": "readonly",
-        "SharedArrayBuffer": "readonly"
+        "SharedArrayBuffer": "readonly",
+        "__PATH_PREFIX__": true,
+        "process": true,
     },
     "parserOptions": {
         "ecmaFeatures": {
@@ -19,6 +21,7 @@ module.exports = {
         "react"
     ],
     "rules": {
-        "react/jsx-uses-vars": 1
+        "react/jsx-uses-vars": 1,
+        "react/jsx-uses-react": 1,
     }
 };
