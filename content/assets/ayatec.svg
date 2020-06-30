@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="SVGRoot"
+   version="1.1"
+   viewBox="0 0 32 32"
+   height="32px"
+   width="32px"
+   sodipodi:docname="ayatec.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview833"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="12.984375"
+     inkscape:cx="14.918224"
+     inkscape:cy="16.500237"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="SVGRoot" />
+  <defs
+     id="defs1366" />
+  <metadata
+     id="metadata1369">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="text843"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.00014877px;line-height:1.25;font-family:'noto sans cjk jp';-inkscape-font-specification:'noto sans cjk jp Heavy';letter-spacing:0px;word-spacing:0px;fill:#630b39;fill-opacity:1;stroke:#f7f9fd;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     transform="scale(0.99999265,1.0000074)"
+     aria-label="at" />
+  <g
+     id="layer3">
+    <path
+       id="path853"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3336792px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93 Bold';letter-spacing:0px;word-spacing:0px;fill:#630b39;fill-opacity:1;stroke:#f7f9fd;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 12.601181,12.954958 v 7.054753 q -0.838549,0.145835 -1.531264,0.145835 -4.1016007,0 -6.836001,-2.697942 -2.7344003,-2.697941 -2.7344003,-6.763083 0,-3.955766 2.7526296,-6.7083957 2.770859,-2.7526297 6.7266247,-2.7526297 4.411499,0 6.945377,2.5885657 2.552107,2.5703363 2.552107,7.0365237 v 8.914145 h -6.817772 v -8.421953 q 0,-1.4401177 -0.710944,-2.2968964 -0.692714,-0.8567788 -1.877621,-0.8567788 -1.075531,0 -1.8593924,0.7838614 -0.7838614,0.7838615 -0.7838614,1.8593918 0,1.130219 0.710944,1.859393 0.7109441,0.729173 1.8047038,0.729173 0.893238,0 1.65887,-0.473963 z"
+       transform="scale(0.99999265,1.0000074)" />
+  </g>
+  <g
+     id="layer4">
+    <path
+       transform="scale(0.99999265,1.0000074)"
+       id="path855"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3336792px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93 Bold';letter-spacing:0px;word-spacing:0px;fill:#630b39;fill-opacity:1;stroke:#f7f9fd;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 27.310588,5.6097863 v 6.9636057 h 3.062529 v 7.200588 h -3.062529 q 0,2.169291 0.674486,2.989611 0.692715,0.82032 2.515648,0.82032 v 7.164129 q -0.528651,0.01823 -0.783861,0.01823 -2.315126,0 -4.375041,-1.07553 -2.041685,-1.075531 -3.28128,-2.916694 -1.567723,-2.351584 -1.567723,-6.234433 V 5.6097863 Z" />
+  </g>
+</svg>
