@@ -3,12 +3,13 @@ module.exports = {
     title: `ayatec blog`,
     author: `ayatec`,
     description: `ayatec blog`,
-    siteUrl: `https://blog.ayatec.com/`,
+    siteUrl: `https://blog.ayatec.jp/`,
     social: {
       twitter: `ayatec_jp`,
     },
   },
-  plugins: [{
+  plugins: [
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
@@ -25,7 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [{
+        plugins: [
+          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,
@@ -48,7 +50,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-142114929-2`,
       },
     },
     `gatsby-plugin-feed`,
@@ -59,9 +61,9 @@ module.exports = {
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#630b39`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/ayatec.svg`,
       },
     },
     `gatsby-plugin-offline`,
